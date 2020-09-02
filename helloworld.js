@@ -5,4 +5,4 @@ http.createServer(function (req, res) {
     res.end('Hello World!');
 }).listen(3000);
 
-console.log('Press CTRL+C to terminate the server');
+console.log('hi there, press CTRL+C to terminate the server');
